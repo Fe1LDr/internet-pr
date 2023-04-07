@@ -1,0 +1,17 @@
+[
+  {"id":1,"name":"Москва","country_id":1},
+  {"id":2,"name":"Казань","country_id":1},
+  {"id":3,"name":"Смоленск","country_id":1},
+  {"id":4,"name":"Нью-Йорк","country_id":2},
+  {"id":5,"name":"Лос-Анджелес","country_id":2},
+  {"id":6,"name":"Пекин","country_id":3},
+  {"id":7,"name":"Шанхай","country_id":3},
+  {"id":8,"name":"Гонконг","country_id":3},
+  {"id":9,"name":"Берлин","country_id":4},
+  {"id":10,"name":"Гамбург","country_id":4},
+  {"id":11,"name":"Мюнхен","country_id":4},
+  {"id":12,"name":"Париж","country_id":5},
+  {"id":13,"name":"Марсель","country_id":5},
+  {"id":14,"name":"Лион","country_id":5}
+
+]
